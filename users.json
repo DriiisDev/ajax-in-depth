@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "idris",
+        "email": "olayinkayakub@yahoo.com"
+    },
+    {
+        "id": 2,
+        "name": "yakub",
+        "email": "olayinkayakub@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "olayinka",
+        "email": "idrisbol@yahoo.com"
+    }
+]
